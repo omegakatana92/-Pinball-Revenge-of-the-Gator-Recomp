@@ -1,0 +1,4 @@
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/pinballrevenge/build/CMakeFiles/gbrt.dir
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/pinballrevenge/build/CMakeFiles/Pinball___Revenge_of_the__Gator__USA__Europe_.dir
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/pinballrevenge/build/CMakeFiles/edit_cache.dir
+C:/Users/omega/Documents/tools/gb-recompiled-windows/output/pinballrevenge/build/CMakeFiles/rebuild_cache.dir
